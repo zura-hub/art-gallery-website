@@ -195,7 +195,7 @@ body {
 /* location page */
 .map-buttom-contnet{
     height: 574px;
-    background-image: url(./assets/mobile/image-map.png);
+    background-image: url(./starter-code/assets/mobile/image-map.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -445,7 +445,7 @@ body {
 
     /* location page */
     .map-buttom-contnet{
-        background-image: url(./assets/tablet/image-map.png);
+        background-image: url(./starter-code/assets/tablet/image-map.png);
         background-repeat: no-repeat;
         background-size: 100%;
     }
